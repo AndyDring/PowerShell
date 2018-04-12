@@ -1,0 +1,6 @@
+Name,Primary,Second,Third,Lagged
+DB01,Exch1,Exch2,Exch7,Exch8
+DB02,Exch2,Exch3,Exch6,Exch5
+DB03,Exch3,Exch4,Exch5,Exch2
+DB04,Exch4,Exch5,Exch2,Exch9
+
